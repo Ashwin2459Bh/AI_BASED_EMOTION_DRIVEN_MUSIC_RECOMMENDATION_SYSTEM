@@ -2,7 +2,6 @@
 
 An AI-powered music recommendation system that detects **human emotions from facial expressions** using a camera and plays **emotion-based music** from the **GTZAN dataset**.
 
-This project is developed and executed entirely using **Google Colab**, integrating **Computer Vision**, **Deep Learning**, and **Music Recommendation** techniques.
 
 ---
 
